@@ -51,3 +51,6 @@ Run the Streamlit app using the following command:
 
 ```bash
 streamlit run app.py
+```
+[![Watch the video](thumbnail_image.jpg)](https://github.com/devadigapratham/ChatwithPDF/blob/main/pdfchat.webm)
+
